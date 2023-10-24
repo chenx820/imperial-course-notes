@@ -1,6 +1,6 @@
-# 🎓 Courses
+# 🎓 Imperial Course Notes
 
-This repository contains my notes for various physics-related courses I've taken in Imperial College London. Each class has its own folder. Below is a brief overview of each one.
+This repository contains my notes for various physics-related course notes I've taken in Imperial College London. Each class has its own folder. Below is a brief overview of each one.
 
 ---
 
