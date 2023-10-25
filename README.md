@@ -26,9 +26,9 @@ This course dives into the world of quantum optics. The notes in this folder cov
 
 This course covers various mathematical methods used in physics. The notes in this folder include topics such as:
 
-- ➕ Linear Algebra
-- 🔄 Differential Equations
-- 🎵 Fourier Analysis
+- ➕ Vector Spaces and Tensors
+- 🔄 Green Functions
+- 🎵 Hilbert Spaces and Sturm-Liouville Theory
 
 ### [🚀 Advanced Classical Mechanics](./advanced-classical-mechanics)
 
