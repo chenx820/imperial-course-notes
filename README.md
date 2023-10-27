@@ -11,16 +11,20 @@ This repository contains my notes for various physics-related course notes I've 
 This course covers the basics and advanced concepts of quantum information. The notes in this folder include topics such as:
 
 - 🧩 Quantum States
+- 💻 Quantum Algorithms
+- 🌰 Physical Realisation
+- ⬇️ quantum Decoherence
 - 🔗 Quantum Entanglement
-- 💻 Quantum Computing
 
 ### [🌈 Quantum Optics](./quantum-optics)
 
 This course dives into the world of quantum optics. The notes in this folder cover topics like:
 
-- 💡 Quantum Light Sources
-- 🌊 Quantum Interference
-- 📏 Quantum Measurement
+- 💡 A Quantum Mechanics Atom in a Classical Light Field
+- 🌊 Quantuantisation of the Electromagnetic Field
+- 🥶 Quantum States of Light
+- 📏 Detection of Light
+- 👀 Current Quantum Optical Experiments
 
 ### [🧮 Mathematical Methods for Physicists](./mathematical-methods-for-physicists)
 
@@ -28,15 +32,17 @@ This course covers various mathematical methods used in physics. The notes in th
 
 - ➕ Vector Spaces and Tensors
 - 🔄 Green Functions
-- 🎵 Hilbert Spaces and Sturm-Liouville Theory
+- 🎵 Hilbert Spaces
 
 ### [🚀 Advanced Classical Mechanics](./advanced-classical-mechanics)
 
 This course covers advanced topics in classical mechanics. The notes in this folder include topics like:
 
 - 🏹 Lagrangian Mechanics
-- ⚙️ Hamiltonian Mechanics
+- 🐑 Hamiltonian Mechanics
+- 🪜 Rigid Bodies
 - 🌾 Classical Field Theory
+- ⏰ Relativity
 
 ---
 
