@@ -8,23 +8,24 @@ This repository contains my notes for various physics-related course I've taken 
 
 ### [🔮 Quantum Information](./quantum-information)
 
-This course covers the basics and advanced concepts of quantum information. The notes in this folder include topics such as:
+The notes in this folder include topics such as:
 
-- 🧩 Quantum States
+- 🧩 Elements of quantum mechanics and quantum information (Quantum cryptography)
 - 💻 Quantum Algorithms
-- 🌰 Physical Realisation
-- ⬇️ quantum Decoherence
-- 🔗 Quantum Entanglement
+- 🌰 Physical realisation - trapped ions
+- ⬇️ Decoherence and quantum error correction
+- 🔗 Properties and applications of entangled states
 
 ### [🌈 Quantum Optics](./quantum-optics)
 
 This course dives into the world of quantum optics. The notes in this folder cover topics like:
 
-- 💡 A Quantum Mechanics Atom in a Classical Light Field
-- 🌊 Quantuantisation of the Electromagnetic Field
-- 🥶 Quantum States of Light
-- 📏 Detection of Light
+- 💡 Semi-classical atom-field interaction (optical Bloch equations, Ramsey interferometry)
+- 🌊 Field quantisation (Fock states, coherent states)
+- 🥶 Fluctuations and correlations (Mach-Zahnder interferometry, Hanbury-Brown-Twiss experiment, Hong-Ou- Mandel effect)
+- 📏 Quasi-Probabilities (Wigner function, Husimi function)
 - 👀 Current Quantum Optical Experiments
+- 🚪 Atom-field interaction (dipole interaction, Jaynes-Cumming model)
 
 ### [🧮 Mathematical Methods for Physicists](./mathematical-methods-for-physicists)
 
@@ -32,17 +33,19 @@ This course covers various mathematical methods used in physics. The notes in th
 
 - ➕ Vector Spaces and Tensors
 - 🔄 Green Functions
-- 🎵 Hilbert Spaces
+- 🎵 Hilbert Spaces and Sturm-Liouville Theory
+- 🖊️ Integral Transforms
 
 ### [🚀 Advanced Classical Mechanics](./advanced-classical-mechanics)
 
-This course covers advanced topics in classical mechanics. The notes in this folder include topics like:
+This course notes covers the following topics: 
 
-- 🏹 Lagrangian Mechanics
-- 🐑 Hamiltonian Mechanics
-- 🪜 Rigid Bodies
-- 🌾 Classical Field Theory
-- ⏰ Relativity
+- 🏹 Lagrangian Mechanics: calculus of variations, action integral, principle of least action, generalised coordinates and momenta, equilibrium points, normal modes & frequencies. 
+- 🐑 Hamiltonian Mechanics: Hamiltonian, Hamilton's equations,  fixed points and stability, phase space picture, canonical transformations, Poisson brackets, symmetries, conserved charges, action angle variables, Hamilton-Jacobi formulation.
+- 🪜 Rigid Bodies: centrifugal and coriolis forces, inertia tensor, principal axes of inertia, motion in inertial and rotating frame, gyroscopes and stability.
+- 🌾 Classical Field Theory: continuous systems a.k.a classical field theory, Lagrangian densities, Hamiltonian densities, Klein-Gordon equation.
+- ⏰ Relativity: Galileon transformations, 4D vectors, Lorentz/Poincar'e transformations, transformation of tensors, action for relativistic particle.
+- 🔋 Electromagnetism: action for relativistic charged particle, Maxwell in relativistic notation, 4D vector potential, gauge Transformations, Lagrangian for electromagnetism.
 
 ---
 
