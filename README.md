@@ -11,7 +11,7 @@ This repository contains my notes for various physics-related course I've taken 
 The notes in this folder include topics such as:
 
 - 🧩 Elements of quantum mechanics and quantum information (Quantum cryptography)
-- 💻 Quantum Algorithms
+- 💻 Quantum algorithms
 - 🌰 Physical realisation - trapped ions
 - ⬇️ Decoherence and quantum error correction
 - 🔗 Properties and applications of entangled states
