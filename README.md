@@ -23,8 +23,8 @@ This course dives into the world of quantum optics. The notes in this folder cov
 - 💡 Semi-classical atom-field interaction (optical Bloch equations, Ramsey interferometry)
 - 🌊 Field quantisation (Fock states, coherent states)
 - 🥶 Fluctuations and correlations (Mach-Zahnder interferometry, Hanbury-Brown-Twiss experiment, Hong-Ou- Mandel effect)
-- 📏 Quasi-Probabilities (Wigner function, Husimi function)
-- 👀 Current Quantum Optical Experiments
+- 📏 Quasi-probabilities (Wigner function, Husimi function)
+- 👀 Current quantum optical experiments
 - 🚪 Atom-field interaction (dipole interaction, Jaynes-Cumming model)
 
 ### [🧮 Mathematical Methods for Physicists](./mathematical-methods-for-physicists)
