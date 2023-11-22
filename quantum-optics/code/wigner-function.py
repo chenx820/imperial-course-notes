@@ -36,7 +36,7 @@ W_states = {
 }
 
 # Create a figure for the Wigner functions
-fig, axes = plt.subplots(1, 4, figsize=(15, 3))
+fig, axes = plt.subplots(1, 4, figsize=(13, 3))
 
 # Loop over the states and their corresponding Wigner functions
 for ax, (state, W) in zip(axes, W_states.items()):
@@ -44,9 +44,6 @@ for ax, (state, W) in zip(axes, W_states.items()):
     ax.set_title(state)
     ax.set_xticks([-4, 0, 4])
     ax.set_yticks([-4, 0, 4])
-
-# Add a colorbar to the plot
-cbar = fig.colorbar(cont, ax=axes.ravel().tolist())
 
 plt.savefig('wigner-function-fig.png')
 plt.show()
