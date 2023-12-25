@@ -27,7 +27,7 @@ This course dives into the world of quantum optics. The notes in this folder cov
 - Current quantum optical experiments
 - Atom-field interaction (dipole interaction, Jaynes-Cumming model)
 
-### [🧮 Mathematical Methods for Physicists](./mathematical-methods-for-physicists)
+### [🧮 Mathematical Methods for Physicists (Complete)](./mathematical-methods-for-physicists)
 
 This course covers various mathematical methods used in physics. The notes in this folder include topics such as:
 
@@ -37,7 +37,7 @@ This course covers various mathematical methods used in physics. The notes in th
 - Integral Transforms
 - Calculus of Variations
 
-### [🚀 Advanced Classical Mechanics (Complete)](./advanced-classical-mechanics)
+### [🚀 Advanced Classical Mechanics](./advanced-classical-mechanics)
 
 This course notes covers the following topics: 
 
