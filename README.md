@@ -37,7 +37,7 @@ This course covers various mathematical methods used in physics. The notes in th
 - Integral Transforms
 - Calculus of Variations
 
-### [🚀 Advanced Classical Mechanics](./advanced-classical-mechanics)
+### [🚀 Advanced Classical Mechanics (Complete)](./advanced-classical-mechanics)
 
 This course notes covers the following topics: 
 
