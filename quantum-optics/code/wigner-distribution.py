@@ -45,5 +45,5 @@ for ax, (state, W) in zip(axes, W_states.items()):
     ax.set_xticks([-4, 0, 4])
     ax.set_yticks([-4, 0, 4])
 
-plt.savefig('wigner-function.png')
+plt.savefig('wigner-distribution.png')
 plt.show()
