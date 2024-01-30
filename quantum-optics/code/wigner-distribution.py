@@ -59,5 +59,5 @@ for ax, (state, W) in zip(axes, W_states.items()):
 cbar_ax = fig.add_axes([0.93, 0.1, 0.01, 0.78])  # Parameters are [left, bottom, width, height]
 fig.colorbar(cont, cax=cbar_ax)
 
-plt.savefig('wigner-distribution.pdf')
+plt.savefig('wigner-distribution.png')
 plt.show()
