@@ -10,7 +10,6 @@ Date: 28 Jan 2024
 import numpy as np
 import matplotlib.pyplot as plt
 from qutip import *
-from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 N = 20  # Dimension of the Hilbert space
 vac = basis(N, 0)  # Vacuum state
@@ -60,5 +59,5 @@ for ax, (state, W) in zip(axes, W_states.items()):
 cbar_ax = fig.add_axes([0.93, 0.1, 0.01, 0.78])  # Parameters are [left, bottom, width, height]
 fig.colorbar(cont, cax=cbar_ax)
 
-plt.savefig('wigner-distribution.png')
+plt.savefig('wigner-distribution.pdf')
 plt.show()
