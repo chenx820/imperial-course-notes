@@ -1,6 +1,6 @@
 # 🎓 Imperial Course Notes
 
-This repository contains my notes for various physics-related courses I've taken in Imperial College London. Each course has its own folder. Below is a brief overview of each one.
+This repository contains my notes and codes for various physics-related courses I've taken in Imperial College London. Each course has its own folder. Below is a brief overview of each one.
 
 ---
 
@@ -47,6 +47,8 @@ This course notes covers the following topics:
 - Classical Field Theory
 - Relativity
 - Electromagnetism
+
+  ### [💎 Quantum Theory of Matter]
 
 ---
 
