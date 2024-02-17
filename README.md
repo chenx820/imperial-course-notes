@@ -48,7 +48,7 @@ This course notes covers the following topics:
 - Relativity
 - Electromagnetism
 
-  ### [💎 Quantum Theory of Matter]
+  ### [💎 Quantum Theory of Matte](./quantum-theory-of-matter)
 
 ---
 
