@@ -16,7 +16,7 @@ The notes in this folder include topics such as:
 - Decoherence and quantum error correction
 - Properties and applications of entangled states
 
-### [🌈 Quantum Optics](./quantum-optics)
+### [🌈 Quantum Optics (Complete)](./quantum-optics)
 
 This course dives into the world of quantum optics. The notes in this folder cover topics like:
 
