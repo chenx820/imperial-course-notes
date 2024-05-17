@@ -50,6 +50,11 @@ This course notes covers the following topics:
 
 ### [💎 Quantum Theory of Matte](./quantum-theory-of-matter)
 
+### [⚡️ Laser Technology](./laser-technology)
+
+- Laser device technology
+- Nonlinear optics
+
 ---
 
 ## 🤝 Contributing
