@@ -22,7 +22,7 @@ This course dives into the world of quantum optics. The notes in this folder cov
 
 - Semi-classical atom-field interaction (optical Bloch equations, Ramsey interferometry)
 - Field quantisation (Fock states, coherent states)
-- Fluctuations and correlations (Mach-Zahnder interferometry, Hanbury-Brown-Twiss experiment, Hong-Ou- Mandel effect)
+- Fluctuations and correlations (Mach-Zahnder interferometry, Hanbury-Brown-Twiss experiment, Hong-Ou-Mandel effect)
 - Quasi-probabilities (Wigner function, Husimi function)
 - Current quantum optical experiments
 - Atom-field interaction (dipole interaction, Jaynes-Cumming model)
@@ -31,24 +31,36 @@ This course dives into the world of quantum optics. The notes in this folder cov
 
 This course covers various mathematical methods used in physics. The notes in this folder include topics such as:
 
-- Vector Spaces and Tensors
-- Green Functions
-- Hilbert Spaces and Sturm-Liouville Theory
-- Integral Transforms
-- Calculus of Variations
+- Vector spaces and tensors
+- Green functions
+- Hilbert spaces and Sturm-Liouville theory
+- Integral transforms
+- Calculus of variations
 
 ### [🚀 Advanced Classical Mechanics](./advanced-classical-mechanics)
 
 This course notes covers the following topics: 
 
-- Lagrangian Mechanics
-- Hamiltonian Mechanics
-- Rigid Bodies
-- Classical Field Theory
+- Lagrangian mechanics
+- Hamiltonian mechanics
+- Rigid bodies
+- Classical field theory
 - Relativity
 - Electromagnetism
 
 ### [💎 Quantum Theory of Matte](./quantum-theory-of-matter)
+
+- Geometry phase
+- Electron bands
+- Tight binding chains
+- Edge states on chains
+- Adiabatic transport
+- Electrons in a vector potential
+- Electrons in a magnetic field
+- Carbon and carbon allotropes
+- Electronic states in graphene
+- Symmetries of electronic states
+- Topological materials
 
 ### [⚡️ Laser Technology](./laser-technology)
 
