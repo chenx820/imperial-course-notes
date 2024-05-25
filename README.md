@@ -10,7 +10,7 @@ This repository contains my notes and codes for various physics-related courses 
 
 The notes in this folder include topics such as:
 
-- Elements of quantum mechanics and quantum information (Quantum cryptography)
+- Elements of quantum mechanics and quantum information (quantum cryptography)
 - Quantum algorithms
 - Physical realisation - trapped ions
 - Decoherence and quantum error correction
