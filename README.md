@@ -2,6 +2,8 @@
 
 This repository contains my notes and codes for various physics-related courses I've taken in Imperial College London. Each course has its own folder. Below is a brief overview of each one.
 
+⚠️ My Imperial email address has been retired. Please contact me at my personal email address: chen.huang678@gmail.com.
+
 ---
 
 ## 📚 Contents
